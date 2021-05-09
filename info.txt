@@ -1,0 +1,15 @@
+-----------------------
+Datos registrados
+-----------------------
+Nombre y Apellido.....:Balmer Aldave
+Genero................:Masculino-----------
+Datos registrados
+-----------
+Nombre y apellidos.:balmer aldave
+Geberi.............:Femenino
+El archivo fue creado correctamente
+-----------
+Datos registrados
+-----------
+Nombre y apellidos.:balmer aldave
+Geberi.............:Masculino
